@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[
+xquery version "1.0-ml";
+
+module namespace ${1:ns} = "${2:http://namespace-uri}";
+
+declare option xdmp:mapping "false";
+
+${3:(: your code here :)}
+]]></content>
+	<tabTrigger>lib</tabTrigger>	
+	<scope>source.xquery</scope>
+	<description>library module</description>
+</snippet>

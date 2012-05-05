@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+xquery version "1.0-ml";
+
+declare option xdmp:mapping "false";
+
+]]></content>
+	<tabTrigger>main</tabTrigger>	
+	<scope>source.xquery</scope>
+	<description>main module</description>
+</snippet>
