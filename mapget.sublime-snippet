@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+map:get(\$${1:table},"${2:key}")
+]]></content>	
+	<tabTrigger>mg</tabTrigger>	
+	<scope>source.xquery</scope>
+</snippet>

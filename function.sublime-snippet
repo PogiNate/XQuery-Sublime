@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+declare function ${1:namespace}:${2:functionName}(${3:parameters})as ${4:returnType}\{
+	${5:(\:body goes here...\:)}
+};
+]]></content>
+	<tabTrigger>fun</tabTrigger>
+	<scope>source.xquery</scope>
+</snippet>

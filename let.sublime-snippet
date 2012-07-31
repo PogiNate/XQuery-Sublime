@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+let \$${1:varName} := ${2:value}
+]]></content>
+    <tabTrigger>let</tabTrigger>
+    <scope>source.xquery</scope>
+</snippet>
