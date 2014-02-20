@@ -240,7 +240,7 @@
 				</dict>
 			</dict>
 			<key>match</key>
-			<string>(?&lt;![:\-_a-zA-Z0-9])(element|attribute|document|document-node|schema-element|schema-attribute|processing-instruction|comment|text|node)(?![:\-_a-zA-Z0-9])</string>
+			<string>(?&lt;![:\-_a-zA-Z0-9])(element|attribute|document|document-node|schema-element|schema-attribute|processing-instruction|comment|text|node|empty-sequence|item)(?![:\-_a-zA-Z0-9])</string>
 		</dict>
 		<dict>
 			<key>match</key>
